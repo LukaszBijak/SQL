@@ -1,5 +1,4 @@
--- 1. podziel na okresy od 2013-09-25 do 2013-10-25
--- 2.  
+ 
 CREATE TEMPORARY TABLE cart_to_shipp
 SELECT 
 	website_session_id,
